@@ -29,7 +29,7 @@ Group:		File tools
 URL:		https://github.com/libyal/%{name}
 Source0:	https://github.com/libyal/%{name}/releases/download/%{version}/%{name}-alpha-%{version}.tar.gz
 
-BuildRequires:  autoconf
+BuildRequires:  intltool
 
 %{?with_python:
 BuildRequires:	pkgconfig(python3)
