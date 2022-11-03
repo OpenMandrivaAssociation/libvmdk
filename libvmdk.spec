@@ -22,7 +22,7 @@
 
 Summary: 	Library and tools to access the VMware Virtual Disk (VMDK) format
 Name:		lib%{sname}
-Version:	20210807
+Version:	20221022
 Release:	1
 License:	LGPLv3+ and GPLv3+
 Group:		File tools
